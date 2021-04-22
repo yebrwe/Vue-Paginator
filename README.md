@@ -1,6 +1,7 @@
 # Vue Paginator
 
 ## 의존성
+- Nuxt.js
 - Vuetify.js
 
 ## 사용 예시
