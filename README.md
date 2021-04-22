@@ -19,6 +19,7 @@ export default {
     changePage(value) {
       //TODO: do something.
     }
+  }
 }
 ```
 
