@@ -1,5 +1,8 @@
 # Vue Paginator
 
+## 의존성
+- Vuetify.js
+
 ## 사용 예시
 
 ```jsx
