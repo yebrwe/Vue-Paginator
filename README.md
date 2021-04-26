@@ -1,5 +1,7 @@
 # Vue Paginator
 
+![ex_screenshot](./img/paginator.png)
+
 ## 의존성
 - Nuxt.js
 - Vuetify.js
